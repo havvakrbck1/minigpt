@@ -3,7 +3,7 @@ import random
 import json
 import os
 
-TOKEN = '7261395606:AAEiLQG9us3AGew00gFteV2MpcGwe9WDvXQ'
+TOKEN = ''
 bot = telebot.TeleBot(TOKEN)
 
 DATA_FILE = 'kullanici_verileri.json'
