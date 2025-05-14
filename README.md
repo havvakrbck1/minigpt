@@ -1,4 +1,4 @@
-## 📁 `minigpt` → ✅ `mini-gpt-chat`
+##  ✅ `mini-gpt-chat`
 
 ```markdown
 # Mini GPT Chat
